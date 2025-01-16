@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singh-shreya27" alt="singh-shreya27" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript and DSA.**
+- 🌱 I’m currently learning **How to deal with toxic people...hehe**
 
 - 📫 How to reach me **singh.shreya.01@gmail.com**
 
