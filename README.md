@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **How to deal with people...hehe**
 
-- 📫 How to reach me **singh.shreya.01@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
