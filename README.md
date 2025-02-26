@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singh-shreya27" alt="singh-shreya27" /></a> </p>
 
-- 🌱 I’m currently learning **How to deal with people...hehe**
+- 🌱 I’m currently learning **How to deal with cheaters.**
 
 
 
