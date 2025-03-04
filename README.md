@@ -4,18 +4,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singh-shreya27&label=Profile%20views&color=0e75b6&style=flat" alt="singh-shreya27" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singh-shreya27" alt="singh-shreya27" /></a> </p>
-- 🌱 About Me:
+  <br>
+  <br>
+- 🌱 About Me:<br>
 - I'm a B.Tech 2nd-year student, actively exploring different domains within tech.
 - I'm passionate about learning and have a curious mind that constantly seeks new challenges.
 - I'm continuously evolving and enjoy adapting to new ideas and opportunities.
-
+<br>
 💬 Looking to Collaborate:
 - I’m eager to collaborate on open-source projects and contribute to innovative tech solutions.
 - Feel free to connect with me for projects on web development .
 
-
+<br>
 <h3 align="left">Connect with me:</h3>
-- Email: <a>singh.s.shreya.01@gmail.com</a>
 <p align="left">
 <a target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreya_27_singh" height="30" width="40" /></a>
 </p>
