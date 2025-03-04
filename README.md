@@ -11,16 +11,19 @@
 - I'm passionate about learning and have a curious mind that constantly seeks new challenges.<br>
 - I'm continuously evolving and enjoy adapting to new ideas and opportunities.<br>
 <br>
-💬 Looking to Collaborate:
+<br>
+💬 Looking to Collaborate:<br>
 - I’m eager to collaborate on open-source projects and contribute to innovative tech solutions.<br>
 - Feel free to connect with me for projects on web development .<br>
 
+<br>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreya_27_singh" height="30" width="40" /></a>
 </p>
-
+<br>
+<br>
 😄 Pronouns: She/Her  <br>
 ⚡ Fun Fact: I enjoy dealing with cheaters in real world..haha..lol.<br>
 
