@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singh-shreya27" alt="singh-shreya27" /></a> </p>
   <br>
 🌱 About Me:<br>
-- I'm a B.Tech 3nd-year student, actively exploring different domains within tech.<br>
+- I'm a B.Tech 3rd-year student, actively exploring different domains within tech.<br>
 - I'm passionate about learning and have a curious mind that constantly seeks new challenges.<br>
 - I'm continuously evolving and enjoy adapting to new ideas and opportunities.<br>
 <br>
