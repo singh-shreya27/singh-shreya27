@@ -1,5 +1,4 @@
 <h1 align="center">Hello👋, I'm Shreya Singh</h1>
-<h3 align="center">A passionate Coder from India.</h3>
 <br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singh-shreya27&label=Profile%20views&color=0e75b6&style=flat" alt="singh-shreya27" /> </p>
